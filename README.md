@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Ana Carolina👋
 
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
+- 👩‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas
+- 🤩 Extremamente curiosa
 - 📫 Como entrar em contato: carolanst@outlook.com
-- 😄 Pronomes: ela/dela
+- 🌵 Pronomes: ela/dela
 
  <div>
   <a href="https://github.com/carolanastacio">
@@ -10,9 +11,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolanastacio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carol-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carol-Cplusplus" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
  
   <img align="right"  height="150" width="150" alt="carol" src="https://cdn.discordapp.com/attachments/382172552602320914/870100108853805076/Webp.net-gifmaker.gif">
