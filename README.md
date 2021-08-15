@@ -2,14 +2,13 @@
 
 - 👩‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas
 - 🤩 Extremamente curiosa
-- 📫 Como entrar em contato: carolanst@outlook.com
-- 🌵 Pronomes: ela/dela
+
 
  <div>
   <a href="https://github.com/carolanastacio">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=carolanastacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolanastacio&layout=langs_count=7&theme=dracula"/>
-   <img align="right"  height="180" width="180" alt="carol" src="https://cdn.discordapp.com/attachments/382172552602320914/870100108853805076/Webp.net-gifmaker.gif">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolanastacio&layout=compact&langs_count=7&theme=dracula"/>
+   <img align="right"  height="150" width="150" alt="carol" src="https://cdn.discordapp.com/attachments/382172552602320914/870100108853805076/Webp.net-gifmaker.gif">
 </div>
 </div>
   <div style="display: inline_block"><br>
@@ -20,9 +19,12 @@
  
   
   
-  ##
+  ## Como entrar em contato:
   
   <div> 
    <a href="https://www.instagram.com/carol_anst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href ="mailto:carolanst@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>   
   <a href="https://www.linkedin.com/in/ana-carolina-anastácio-00a510177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/jsz2bWvH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   
+   
