@@ -8,7 +8,8 @@
   <a href="https://github.com/carolanastacio">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=carolanastacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolanastacio&layout=compact&langs_count=7&theme=dracula"/>
-   <img align="right"  height="150" width="150" alt="carol" src="https://cdn.discordapp.com/attachments/382172552602320914/870100108853805076/Webp.net-gifmaker.gif">
+   
+   <img align="right"  height="140" width="140" alt="carol" src="https://cdn.discordapp.com/attachments/382172552602320914/870100108853805076/Webp.net-gifmaker.gif">
 </div>
 </div>
   <div style="display: inline_block"><br>
