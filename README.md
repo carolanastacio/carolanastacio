@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Carolina👋
 
 - 👩‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas
-- 📊 Me especializando na Área de Dados
+- 📊 Me especializando na Área de Dados / Business Intelligence
 
 
 
