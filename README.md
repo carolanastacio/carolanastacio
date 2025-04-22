@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Carolina👋
 
 - 👩‍🎓 Pós graduanda em Engenharia e Arquitetura de Dados e graduada em Análise e Desenvolvimento de Sistemas
-- 📊 Auando como Analista ETL Jr.
+- 📊 Atuando como Analista ETL Pleno.
 
 
  <div>
